@@ -10,7 +10,10 @@
     --border-color: #e5e7eb;
     --transition: all 0.3s ease;
 }
-
+#italics{
+    font-style: italic;
+    font-weight: 100;
+}
 * {
     margin: 0;
     padding: 0;
